@@ -109,7 +109,7 @@ p {
   height: 750px;
   padding-top: 100px;
   background-color: rgba(43, 46, 74, 0.95);
-  background-image: url(/img/bground.jpg);
+  background-image: url(\img\bground.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
